@@ -1,12 +1,12 @@
 import Title from "@/components/Title";
 import React from "react";
 
-const Login = () => {
+const Team = () => {
   return (
     <div>
-      <Title>Welcome to Login</Title>
+      <Title>This is Team Page</Title>
     </div>
   );
 };
 
-export default Login;
+export default Team;

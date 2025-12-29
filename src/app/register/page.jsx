@@ -1,12 +1,12 @@
 import Title from "@/components/Title";
 import React from "react";
 
-const Login = () => {
+const Register = () => {
   return (
     <div>
-      <Title>Welcome to Login</Title>
+      <Title>Welcome to Register</Title>
     </div>
   );
 };
 
-export default Login;
+export default Register;
